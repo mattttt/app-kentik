@@ -6,7 +6,7 @@
   "staticRoot": "./public",
 
   "pages": [
-    {"name": "Example1", "url": "/app-example", "reqRole": "Editor"}
+    {"name": "Device List", "url": "/kentik-device-list", "reqRole": "Editor"}
   ],
 
   "css": {
@@ -29,14 +29,13 @@
       {"name": "Kentik Support", "url": "http://kentik.com"},
       {"name": "License & Terms", "url": "http://license.com"}
     ],
-    "version": "0.0.1",
+    "version": "0.0.2",
     "updated": "2015-02-15"
   },
 
   "dependencies": {
     "grafanaVersion": "3.0.x",
     "plugins": [
-      {"type": "datasource", "id": "graphite", "name": "Graphite", "version": "1.0.0"},
       {"type": "panel", "id": "graph", "name": "Graph", "version": "1.0.0"}
     ]
   }
