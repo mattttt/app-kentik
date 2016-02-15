@@ -2,7 +2,7 @@ Kentik Detect is going to blow your mind. It's the best app out there, and I lov
 
 We can also include images down here, in standard markdown format:
 
-![Image of Knetik Detect](https://www.kentik.com/wp-content/uploads/2015/07/Service-diagram-lightbox.png)
+<img src="https://www.kentik.com/wp-content/uploads/2015/07/Service-diagram-lightbox.png" alt="Image of Kentik Detect" width="850px">
 
 ## Chapter V.
 
