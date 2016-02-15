@@ -1,7 +1,7 @@
 {
   "type": "app",
-  "name": "App Example",
-  "id": "app-example",
+  "name": "Kentik Detect",
+  "id": "app-kentik",
 
   "staticRoot": "./public",
 
@@ -15,26 +15,26 @@
   },
 
   "info": {
-    "description": "Example Grafana App",
+    "description": "Kentik Detect Freemium",
     "author": {
-      "name": "Raintank Inc.",
-      "url": "http://raintank.io"
+      "name": "Kentik",
+      "url": "http://kentik.com"
     },
-    "keywords": ["example"],
+    "keywords": ["NetOps"],
     "logos": {
       "small": "img/logo_small.png",
       "large": "img/logo_large.png"
     },
     "links": [
-      {"name": "Project site", "url": "http://project.com"},
+      {"name": "Kentik Support", "url": "http://kentik.com"},
       {"name": "License & Terms", "url": "http://license.com"}
     ],
-    "version": "1.0.0",
-    "updated": "2015-02-10"
+    "version": "0.0.1",
+    "updated": "2015-02-15"
   },
 
   "dependencies": {
-    "grafanaVersion": "2.6.x",
+    "grafanaVersion": "3.0.x",
     "plugins": [
       {"type": "datasource", "id": "graphite", "name": "Graphite", "version": "1.0.0"},
       {"type": "panel", "id": "graph", "name": "Graph", "version": "1.0.0"}
