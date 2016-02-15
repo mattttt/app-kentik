@@ -1,5 +1,9 @@
 Kentik Detect is going to blow your mind. It's the best app out there, and I love it.
 
+We can also include images down here, in standard markdown format:
+
+![Image of Knetik Detect](https://www.kentik.com/wp-content/uploads/2015/07/Service-diagram-lightbox.png)
+
 ## Chapter V.
 
 ### The Rescue of the Tin Woodman
